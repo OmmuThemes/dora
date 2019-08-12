@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Putra Sudaryanto <putra@sudaryanto.id>
+ * @author Putra Sudaryanto <putra@ommu.co>
  * @contact (+62)856-299-4114
  * @copyright Copyright (c) 2018 Ommu Platform (www.ommu.co)
  * @link https://github.com/ommu/theme-dora
@@ -124,7 +124,7 @@
 			<div class="col-sm-12">
 				<a href="https://github.com/ommu" target="_blank"><img src="<?php echo Yii::app()->theme->baseUrl;?>/images/devob.png" alt="devob creative agency"></a>
 				<ul class="right">
-					<li><a href="mailto:putra@sudaryanto.id">Mail Us</a></li>
+					<li><a href="mailto:putra@ommu.co">Mail Us</a></li>
 					<li><a href="https://github.com/OmmuThemes" target="_blank">Our Themes</a></li>
 				</ul>
 			</div>
